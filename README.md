@@ -1,2 +1,2 @@
 # gitprojekt2
-Thi si only for probe
+This is only for probe
